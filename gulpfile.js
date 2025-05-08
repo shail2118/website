@@ -43,7 +43,7 @@ gulp.task('minify-css', ['sass'], function() {
       stream: true
     }))
 });
-
+#Shailesh
 // Minify custom JS
 gulp.task('minify-js', function() {
   return gulp.src('js/resume.js')
